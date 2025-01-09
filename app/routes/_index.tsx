@@ -99,10 +99,10 @@ export default function Index() {
               Some things that make my heart skip a beat: dense scones, produce
               aisles in the grocery store, the philosophy of cybernetics,
               unravelling how interfaces affect our mental models, small gadgets
-              and gizmos, hobonichi planners, playing mahjong until 4AM, cooking
-              good food for people I love, eating really good food, listening to
-              people talk about what they love, long debates on technology and
-              creativity, and brain dumping on a large piece of butcher paper.
+              and gizmos, playing mahjong until 4AM, cooking good food for
+              people I love, eating really good food, listening to people talk
+              about what they love, long debates on technology and creativity,
+              and brain dumping on a large piece of butcher paper.
             </p>
             <p>
               Reach out to me via{" "}
