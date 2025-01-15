@@ -10,7 +10,6 @@ declare module "@remix-run/node" {
 }
 
 export default defineConfig({
-  base: "/website/",
   plugins: [
     remix({
       future: {
@@ -21,7 +20,6 @@ export default defineConfig({
         v3_lazyRouteDiscovery: true,
       },
       ssr: false,
-      basename: "/website/",
     }),
     tsconfigPaths(),
     svgr({ include: "**/*.svg" }),
