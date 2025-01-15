@@ -26,7 +26,7 @@ export default function Index() {
           <div className="flex flex-col gap-8">
             <p>
               In pursuit of great interfaces. Building artifacts, places, and
-              experiences on the internet. Webmaster and design engineer at{" "}
+              experiences in the digital realm. Webmaster and design engineer at{" "}
               <a
                 href="https://www.applied.co"
                 target="_blank"
